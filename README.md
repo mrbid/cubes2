@@ -1,4 +1,4 @@
-### This has been superceeded by the latest version [here](https://github.com/mrbid/NotABug-Mirror/tree/main/CubeShooter).
+### ⚠️ This has been superceeded by the latest version [here](https://github.com/mrbid/NotABug-Mirror/tree/main/CubeShooter).
 
 # cubes2
 A simple 3D arcade shooter.
